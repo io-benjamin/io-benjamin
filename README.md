@@ -7,7 +7,7 @@ Computer Science Student
 I'm a third year undergraduate student at Virginia Commonwealth University studying Computer Science. Seeking internships to develop expertise and knowledge. With experience in Python, Java, & Unity. Currently learning about Terminal and C.
 
 * 🌍  I'm based in Richmond, Virginia
-* 🧠  I'm learning Python and C
+* 🧠  I'm learning Python, React.js, Javascript, and learning about SaaS! 
 * ⚡  I would love to learn more about programming languages in general to further develop my skills.
 
 <a href="https://www.github.com/io-benjamin" target="_blank" rel="noreferrer"><img
